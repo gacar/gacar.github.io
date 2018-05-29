@@ -22,6 +22,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+# Projeler
+[magazailetisim](https://www.magazailetisim.com)
 
 [Link](url) and ![Image](src)
 ```
