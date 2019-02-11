@@ -1,5 +1,5 @@
 
-##ACR Software Agency    
+## ACR Software Agency    
 
 we are creating web applications with Java Spring Technologies and mobile applications with React Native. 
 
@@ -25,7 +25,7 @@ IOS Apps in App Store
 
 
 
-##ACR Yazılım 
+## ACR Yazılım 
 Java teknolojileri ile geliştirilmiş web uygulamaları ve React Native ile geliştirilmiş mobil uygulamalar geliştirioruz.
 
 ### Projeler
