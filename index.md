@@ -1,5 +1,5 @@
 
-##ACR Software Agency | ACR Yazılım   
+##ACR Software Agency    
 
 we are creating web applications with Java Spring Technologies and mobile applications with React Native. 
 
@@ -21,6 +21,11 @@ IOS Apps in App Store
 [itunes](https://itunes.apple.com/tr/developer/gokhan-acar/id1449654140)
 
 
+
+
+
+
+##ACR Yazılım 
 Java teknolojileri ile geliştirilmiş web uygulamaları ve React Native ile geliştirilmiş mobil uygulamalar geliştirioruz.
 
 ### Projeler
