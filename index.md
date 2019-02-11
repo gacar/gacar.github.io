@@ -26,7 +26,7 @@ IOS Apps in App Store
 
 
 ## ACR Yazılım 
-Java teknolojileri ile geliştirilmiş web uygulamaları ve React Native ile geliştirilmiş mobil uygulamalar geliştirioruz.
+Java teknolojileri ile geliştirilmiş web uygulamaları ve React Native ile geliştirilmiş mobil uygulamalar geliştiriyoruz.
 
 ### Projeler
 
