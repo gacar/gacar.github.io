@@ -8,8 +8,15 @@ we are creating web applications with Java Spring Technologies and mobile applic
 you can see out portfolio
 [ACR Software Agency](http://www.acryazilim.com)
 
-our main startup fewwer
+our startup projects 
+fewwer
 [fewwer](https://www.fewwer.com)
+
+vitrindex
+[vitrindex](https://www.vitrindex.com)
+
+magazailetisim
+[magazailetisim](https://www.magazailetisim.com)
 
 github files
 [github](https://github.com/gacar/gacar.github.io)
@@ -31,8 +38,18 @@ Java teknolojileri ile geliştirilmiş web uygulamaları ve React Native ile gel
 yazılım çalışmalarımızı web sayfamız üzerinden görüntüleyebilirsiniz
 [ACR Yazılım](http://www.acryazilim.com)
 
-our main startup fewwer
+our startup projects 
+fewwer
 [fewwer](https://www.fewwer.com)
+
+vitrindex
+[vitrindex](https://www.vitrindex.com)
+
+magazailetisim
+[magazailetisim](https://www.magazailetisim.com)
+
+github files
+[github](https://github.com/gacar/gacar.github.io)
 
 github files
 [github](https://github.com/gacar/gacar.github.io)
