@@ -48,8 +48,6 @@ vitrindex
 magazailetisim
 [magazailetisim](https://www.magazailetisim.com)
 
-github files
-[github](https://github.com/gacar/gacar.github.io)
 
 github files
 [github](https://github.com/gacar/gacar.github.io)
