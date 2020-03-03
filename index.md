@@ -1,14 +1,8 @@
-
-## ACR Software Agency    
-
-we are creating web applications with Java Spring Technologies and mobile applications with React Native. 
+web applications, Java Spring Technologies and mobile applications with React Native. 
 
 ### Projects
 
-you can see out portfolio
-[ACR Software Agency](http://www.acryazilim.com)
 
-our startup projects 
 fewwer
 [fewwer](https://www.fewwer.com)
 
@@ -30,13 +24,10 @@ IOS Apps in App Store
 
  <br /> <br />
 
-## ACR Yazılım 
-Java teknolojileri ile geliştirilmiş web uygulamaları ve React Native ile geliştirilmiş mobil uygulamalar geliştiriyoruz.
+web uygulamaları ve React Native ile geliştirilmiş mobil uygulamalar.
 
 ### Projeler
 
-yazılım çalışmalarımızı web sayfamız üzerinden görüntüleyebilirsiniz
-[ACR Yazılım](http://www.acryazilim.com)
 
 our startup projects 
 fewwer
